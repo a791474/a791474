@@ -27,6 +27,8 @@ A brief description of Project 1.
 - I love a lot of things, such as playing PC games, music arcade games(Taiko, CHUNITHM), playing musical instruments(Tuba), traveling, photography, film cameras, and attending concerts.
 - I'm currently learning :muscle: **Spring Boot**, **React**, **IIS**, **Wildfly**.
 
+<img src="https://memeprod.ap-south-1.linodeobjects.com/user-gif-post/1718350923493.gif" alt="Animated GIF" width="300">
+
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
