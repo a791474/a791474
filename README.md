@@ -2,7 +2,7 @@
 
 <!--![Profile views](url) 未來建立個人網頁可以放這裡-->
 
-## About Me
+## :musical_note: About Me
 I am an ordinary person who transitioned from a career in music education to engineering. 2024 is my first year as a System Maintenance Engineer, I work in Taipei and New Taipei City.
 
 ## 🛠 Skills
@@ -25,7 +25,7 @@ A brief description of Project 1.
 
 ## 🎉 Fun Facts
 - I love a lot of things, such as playing PC games, music arcade games(Taiko, CHUNITHM), playing musical instruments(Tuba), traveling, photography, film cameras, and attending concerts.
-- I'm currently learning **Spring Boot**, **React**, **IIS**, **Wildfly**.
+- I'm currently learning :muscle: **Spring Boot**, **React**, **IIS**, **Wildfly**.
 
 <!--
 Here are some ideas to get you started:
