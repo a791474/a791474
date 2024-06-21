@@ -10,7 +10,6 @@ I am an ordinary person who transitioned from a career in music education to eng
 - **Frameworks:** Vue, Pinia, jQuery
 - **Tools:** Git, Sourcetree, Vite
 
-- 
 <!-- ## 🌟 Projects  未來有專案經歷放這裡
 ### [Project 1 Name](https://github.com/your-github-username/project1)
 A brief description of Project 1.
